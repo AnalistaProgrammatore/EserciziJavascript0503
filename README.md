@@ -1,4 +1,4 @@
-## ESERCIZI DA FARE
+## ESERCIZI
 
 1. Studiare il testo sugli array
 2. Studiare il testo sugli algoritmi di ordinamento degli array
